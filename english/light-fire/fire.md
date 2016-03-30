@@ -27,6 +27,8 @@ The rat smiles and says, "Come on, let's go!"
 
 [Succumb to your marshmallow-y grave!](succumb/game-over.md)
 
+[Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
+
 [Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)
 
 [Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
